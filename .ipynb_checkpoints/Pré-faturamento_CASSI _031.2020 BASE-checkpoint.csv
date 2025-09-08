@@ -1,0 +1,53 @@
+																	
+																	
+				OBS: NO QUADRO DE VALOR HORA EXTRA E ADICIONAL NOTURNO ONDE ESTÁ 0,00, SIGNIFICA PROFISSIONAL PJ													
+				OBS: HORAS PREVISTAS = 6 horas diárias ---------> para operadores - OPERAÇÃO													
+				OBS: HORAS PREVISTAS = 8 horas diárias ---------> para assistentes - SERVICE DESK													
+				OBS: HORAS PREVISTAS = 8 horas diárias ---------> para desenvolvedores - SISTEMAS													
+ CASSI - Faturamento																	
+																	
+SEQ	NOME	DATA DE ADMISSÃO	DATA DE DESLIGAMENTO	CARGO	NÍVEL	STEP	LOTAÇÃO	RESPONSÁVEL	"PRIMEIRO
+DIA"	"ÚLTIMO
+DIA"	"HORA
+DIA"	HORAS PREVISTAS MÊS	"
+QTD HORAS (NORMAIS)
+ "	QTD HRS  ADICIONAL NOTURNO	QTD  TOTAL HRS NO PERÍODO	"SALDO DE BANCO
+Acumulado"	OBSERVAÇÃO
+1	ALDO CEZAR BARBOSA MORAIS JUNIOR		-	Operador de Produção	SR	1	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	184:00:00	144:00:00		144:00:00	(+) 00:22:00	férias 23/06 a 07/07 (40h)
+2	ALMIR PINTO SOUSA MARANHAO JUNIOR		-	Desenvolvedor Fullstack	SR	3	GTI - Governança	Regina Celia	1/7/2025	31/7/2025	8:00:00	184:00:00	176:00:00		176:00:00	(-) 01:31:00	férias 02/06 a 01/07 (8h)
+3	Arthur da Silva Faustino Mendes		-	Operador de Produção	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	6:00:00	150:00:00	77:00:00	73:00:00	150:00:00	(+) 00:51:00*	
+4	Bruno Sampaio Portuguez	7/7/2020	-	Operador de Produção	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	144:00:00	38:00:00	106:00:00	144:00:00	(+) 04:12:00*	atestado 25/07
+5	Bruno William Barbosa Martins	23/11/2022	-	Analista de Infraestrutura - Cloud Computing	JR	3	GTI - Requisitos	Aline Sousa	1/7/2025	31/7/2025	8:00:00	184:00:00	176:00:00		176:00:00	(-) 00:10:00	férias 02/06 a 01/07 (8h)
+6	Bryan Paiva Cardoso			Operador de Produção	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	6:00:00	90:00:00	80:00:00	10:00:00	90:00:00	(+) 14:23:00*	férias 07/07 a 21/07
+7	CLEITON GERALDO DA SILVA PEREIRA	16/5/2022	-	Analista de Infraestrutura - Cloud Computing 	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	6:00:00	184:00:00	184:00:00		184:00:00	(+) 00:38:00	
+8	Cleivan de Sa Alves Junior	7/3/2023	-	Operador de Produção	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	84:00:00	21:00:00	63:00:00	84:00:00	(-) 04:58:00	férias 02/06 a 01/07 (8h) ultimo dia 18/07
+9	DANIEL RODRIGUES DINIZ COSTA	1/3/2022	-	Desenvolvedor FrontEnd	JR	1	GTI - Requisitos	Aline Sousa	1/7/2025	31/7/2025	6:00:00	184:00:00	152:00:00		152:00:00	00:00:00	férias 28/07 a 02/08 (32h)
+10	DANILO BORGES SANTOS		-	Desenvolvedor.Net	PL	1	GTI – Integração de Sistemas	Lindomar de Sousa	1/7/2025	31/7/2025	8:00:00	184:00:00	176:00:00		176:00:00	(+) 00:13:00	férias 02/06 a 01/07 (8h)
+11	DIOGO FERNANDO ALVES	16/6/2021	-	Desenvolvedor Fullstack	SR	3	GTI - Requisitos	Aline Sousa	1/7/2025	31/7/2025	6:00:00	184:00:00	104:00:00		104:00:00	(+) 01:05:00	férias 07/07 a 20/07 (80h)
+12	EMANUEL TAVARES TORRES	17/3/2021	-	Analista de Suporte de Sistemas	PL	2	GTI - Gestao da Rede de Prestadores	Luis Gustavo Guimaraes	1/7/2025	31/7/2025	8:00:00	184:00:00	176:00:00		176:00:00	(-) 07:03:00	atestado 04/07
+13	Everton Ulisses de Mendonca	22/3/2022	-	Desenvolvedor Fullstack	SR	2	GTI – Integração de Sistemas	Lindomar de Sousa	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(+) 00:11:00	
+14	GIULIA GRANCE YULE		-	Analista de Suporte de Sistemas	PL	1	GSTI - Implementação de Segurança	MAGNO DE SOUZA LIMA	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(+) 00:04:00	
+15	HENRIQUE DOS SANTOS DIAS		-	Desenvolvedor Full-Stack	SR	3	GTI – Integração de Sistemas	Lindomar de Sousa	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(-) 00:35:00	
+16	HENRIQUE RODRIGUES CALACIA	3/10/2022	-	Analista De Service Desk	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(-) 03:07:00	
+17	JOAO VICTOR DE SOUZA DUARTE	27/2/2023	-	Operador de Produção	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	120:00:00	112:00:00	8:00:00	120:00:00	(+) 03:00:00*	férias 28/07 a 11/08 - atestado 03 E 04/07
+18	JOAO VICTOR SIMPLICIO DIAS	13/10/2022	-	Operador de Produção	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	156:00:00	145:00:00	11:00:00	156:00:00	(+) 01:59:00*	
+19	JOAO VINICIUS ALVES DE MEDEIROS	15/8/2022	-	Operador de Produção	JR	1	GSTI - Implementação de Segurança	MAGNO DE SOUZA LIMA	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(-) 02:37:00	
+20	Joao Vitor Bracale de Jesus	17/5/2021	-	Analista de Infraestrutura  - Big Data/Data Science	SR	3	GTI - Implementação Analítica	Tatiana Rocha	1/7/2025	31/7/2025	6:00:00	184:00:00	184:00:00		184:00:00	(-) 07:57:00	
+21	Joelmir de Vasconcelos Galindo da Silva		-	Web Designer	SR	2	Marketing	Camila Castro	1/7/2025	31/7/2025	6:00:00	184:00:00	152:00:00		152:00:00	(-) 00:06:00	Ultimo dia 25/07
+22	JOSE DA COSTA FERREIRA JUNIOR		-	Analista de Infraestrutura  - Big Data/Data Science	SR	3	GTI - Requisitos	Aline Sousa	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(+) 00:11:00	
+23	Jose Henrique Valenca Sarmento	14/6/2022	-	Analista de Infraestrutura - Cloud Computing	SR	1	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(+) 00:35:00	
+24	JULIO CESAR TAVARES	1/2/2021	-	Desenvolvedor Fullstack	SR	3	GTI - Modelagem Analítica	Fernanda Magalhães	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	00:00:00	
+25	KAIO GABRIEL ALVES	23/3/2022	-	Analista de Suporte de Sistemas	JR	1	Marketing	Camila Castro	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(-) 00:01:00	
+26	LEANDRO MARQUES RODRIGUES	30/1/2023	-	Desenvolvedor Fullstack	SR	3	GTI - Integração de Sistemas	Lindomar de Sousa	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(-) 00:41:00	
+27	LUIZ EDUARDO DO NASCIMENTO CIARALLO	16/5/2022	-	Designer UI	JR	1	GTI – Integração de Sistemas	Lindomar de Sousa	1/7/2025	31/7/2025	8:00:00	184:00:00	168:00:00		168:00:00	(+) 02:03:00	atestado 17 e 18/07
+28	MARIA FERNANDA SALAZAR PALMA		-	PMO	SR	3	GTI - Requisitos	Aline Sousa	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	00:00:00	
+29	Matheus Andrade do Nascimento de Oliveira	26/9/2011	-	Desenvolvedor de sistemas	SR	1	GTI - Modelagem Analítica	Fernanda Magalhães	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(-) 06:24:00	
+30	MATHEUS MOREIRA LOPES PERILLO	3/11/2022	-	Designer UI	JR	2	GTI – Integração de Sistemas	Lindomar de Sousa	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(-) 03:12:00	
+31	Maurilio Siqueira Engel Arantes		-	"Desenvolvedor de Sistemas	"	JR	1	GTI - Requisitos	Aline Sousa	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	00:00:00	
+32	RAQUEL DE ANDRADE		-	Analista de Negócio e Requisitos	SR	2	GTI - Requisitos	Aline Sousa	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(-) 01:13:00	
+33	RONAN RODRIGUES DE SOUSA		-	Operador de Produção	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	150:00:00	77:00:00	73:00:00	150:00:00	(+) 02:20:00*	
+34	THAIS ARAUJO LOPES		-	Analista De Service Desk	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	184:00:00	24:00:00		24:00:00	00:00:00	iniciou 29/07
+35	VINICIUS FURTADO SILVA ARAUJO		-	Analista De Service Desk	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	184:00:00	120:00:00		120:00:00	(+) 00:01:00	ultimo dia 21/07
+36	VINICIUS MIRANDA TARGINO		-	Analista de Infraestrutura  - Big Data/Data Science	SR	1	GTI - Modelagem Analítica	Fernanda Magalhães	1/7/2025	31/7/2025	6:00:00	184:00:00	104:00:00		104:00:00	(+) 01:00:00	férias 07/07 a 20/07 (80h)
+37	VINICIUS REIS VERAS		-	Operador de Produção	SR	2	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	150:00:00	142:00:00	8:00:00	150:00:00	(-) 01:02:00*	
+38	VINICIUS RODRIGUES MARECO		-	Analista De Service Desk	JR	3	GTI – Operação e Sustentação	Marcelo Santarem	1/7/2025	31/7/2025	8:00:00	184:00:00	184:00:00		184:00:00	(-) 00:13:00	
